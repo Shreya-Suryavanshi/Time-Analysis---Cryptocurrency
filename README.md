@@ -1,4 +1,5 @@
 # Cryptocurrency Time Series Analysis & Forecasting
+(Project demo video uploaded on master branch)
 
 A comprehensive data analytics project for analyzing cryptocurrency price trends using time series forecasting techniques including ARIMA, LSTM, and Facebook Prophet.
 
